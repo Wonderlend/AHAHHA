@@ -146,8 +146,10 @@ footer {
     background-image: url('https://i.ibb.co/vYr3V3d/SKULL-1.jpg');
     left: 0;
   bottom: 0;
-  width: 100%;
+  margin-left: -434px;
+  width: 184%;
   height: 91px;
+  text-align: center;
 }
 
 a {
