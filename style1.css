@@ -129,8 +129,8 @@ body {
 	background-image: url('zzzzzz.jpg');
 }
 
-p {color: white;
-    color:#a0a0a0;
+p {color: orange;
+    color: orange;
      text-align: center;
      margin-right: 0px;
      margin-left: 0px;
@@ -138,17 +138,17 @@ p {color: white;
      font-weight: 700;
 }
 
-h1{color:white;
+h1{color:orange;
      text-align:center;
      font-size: 300%;
 }
 
-h2{color:white;
+h2{color:orange;
      text-align:center;
      font-size: 300%;
 }
 
-h3{color:white;
+h3{color:orange;
      text-align:center;
      font-size: 150%;
 }
